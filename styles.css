@@ -36,7 +36,7 @@ i {
 
 .card {
   display: flex;
-  width: 280px;
+  width: 310px;
   
   flex-direction: column;
   justify-content: center;
@@ -76,7 +76,7 @@ i {
 
 h1 {
   font-weight: 600;
-  font-size: large;
+  font-size: x-large;
   margin: 11px 0 5px;
 }
 
